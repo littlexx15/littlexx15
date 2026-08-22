@@ -18,18 +18,6 @@
 
 把自由绘画与视觉特征转化为歌词和完整音乐的交互式生成 AI 实验。
 
-### [窗边麻糬桌面宠物 · mochimochi-cat](https://github.com/littlexx15/mochimochi-cat)
-
-一只会散步、撒娇、玩耍和陪伴工作的轻量桌面小猫，支持网页房间与 Windows 透明悬浮窗口。
-
-### [提示词口袋 · prompt-pocket](https://github.com/littlexx15/prompt-pocket)
-
-完全在浏览器本地运行的个人提示词与案例素材库，支持搜索、分类、变量替换、收藏和数据备份。
-
-### [自动视频混剪工具 · auto-video-mixer](https://github.com/littlexx15/auto-video-mixer)
-
-面向 Windows 的本地视频生产工具：从中文文案生成配音和字幕，并通过素材调度与 FFmpeg 批量输出短视频。
-
 ## Currently Exploring
 
 生成式 AI、创意编程、计算机视觉、影像工具，以及让重复工作更轻松的工作流。
